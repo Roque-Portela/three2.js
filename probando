@@ -1,0 +1,5 @@
+git init
+git remote add origin "YOUR_REPOSITORY_URL"
+git add .
+git commit -m "YOUR_COMMIT_MESSAGE"
+git push origin master
